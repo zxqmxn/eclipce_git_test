@@ -4,5 +4,6 @@ public interface TestInterface {
 	
 	void add();
 	void eat();
+	void sleep();
 
 }
